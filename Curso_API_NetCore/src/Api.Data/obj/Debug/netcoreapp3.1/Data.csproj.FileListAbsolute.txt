@@ -1,0 +1,13 @@
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.json
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.dev.json
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Domain.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete

@@ -1,0 +1,15 @@
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.dll
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Service.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/Data.pdb
+/home/acjunior/Projetos/NetCore/AspNetCore3.1/ProjetoDDD/Curso_API_NetCore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CopyComplete
